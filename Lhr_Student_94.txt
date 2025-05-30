@@ -1,0 +1,10 @@
+0,Hafiz Viqar-ul-Islam Chohan,Raja Sharif Chohan,0,House #  855 St. #  37 Shuakat coloney Bahawalpur,11-Apr-74,10-Aug-94,A,C,FSc
+1,Muazzam Abdul Hameed Shah,Sh. Haseeb Shah,0,H#  169 s#  0 Mutian wala Dera ghazi khan,13-Dec-74,13-Aug-94,A,C,A-Level
+2,Babar Abdul Mujeeb,Abdul Mujeeb Anwer,0,ho. #  484 street #  95 Buliyan wali Gujrawala,13-Sep-76,17-Aug-94,A,C,Fsc
+3,Muhammad Mudassir Abbasi,Khurram Abbasi,0,House No. 31 street #  91 Dak ghar Wazirabad,15-Sep-76,20-Aug-94,A,C,F.Sc.
+4,Hadiqa Durrani,Mahtab Abdus Sattar Durrani,1,Ho. # 345 S# 86  Cement factory coloney Sargodha,16-Jun-76,23-Aug-94,A,C,Fsc
+5,Masood Abdul Wasay Jaffery,Farooq Muaz Jaffery,0,house no.660 St. No.49   Pindi Bhatian,18-Feb-76,26-Aug-94,A,C,F.Sc.
+6,Momd. Haroon Gondal,Hafiz Shabi Gondal,0,h no.206 St. No.45  Mujahid block Shekhopura,18-Feb-75,1-Aug-94,A,C,HSSC
+7,Abida Khurshid,Khurshid Baber,1,Ho. No.521 s no.40  Bakra mandi Melsi,20-Nov-75,4-Aug-94,A,C,A level
+8,Abdur Raziq Gondal,Abdus Sammi Gondal,0,H No.835 street no.3  Jalabad D.I. Khan,22-Jul-75,7-Aug-94,A,C,HSSC
+9,Syed Emmad-ud-Din Haqqie,Haroon Haqqie,0,house # 382 St. no.98  Kamra chowk Gujrat,22-Aug-74,11-Aug-94,A,C,FSc

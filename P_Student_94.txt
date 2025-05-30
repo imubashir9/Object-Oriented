@@ -1,0 +1,10 @@
+0,Midhat Azhar Durrani,Azhar Durrani,H# 447 St. # 5  Air port coloney PSH,14-4-74,A-Level,26-8-94,A,C
+1,Mouhammed Abdul Rafay Kazmi,Iffan Kazmi,H#  169 s#  0 University coloney PSH,13-12-74,A-Level,13-8-94,A,C
+2,Ajab Khan,Sahir Fazal Khan,ho. #  484 street #  95 Buliyan wali Sawat,13-9-76,Fsc,17-8-94,A,C
+3,Moeen Minhas,Chodhary Zakir Minhas,House No. 31 street #  91 Industrial estate Peshawar,15-9-76,F.Sc.,20-8-94,A,C
+4,Samina Niazi,Sahibzada Javed Niazi,Ho. # 345 S# 86  Afindi road psh,16-6-76,Fsc,23-8-94,A,C
+5,Ijaz Bashir,Bashir Muneer,house no.660 St. No.49   Sawat,18-2-76,F.Sc.,26-8-94,A,C
+6,Yawar Karam Illahi Awan,Furqan Awan,h no.206 St. No.45  Lane 3 Khybar road PESHAWAR,18-2-75,HSSC,1-8-94,A,C
+7,Manahil Baqir Abuzar Haq,Baqir Abuzar Haq,Ho. No.521 s no.40  Bakra mandi Noshera,20-11-75,A level,4-8-94,A,C
+8,Sheikh Muaz Awan,Kashif Ali Awan,H No.835 street no.3  Jalabad Abbotabad,22-7-75,HSSC,7-8-94,A,C
+9,Bakht Namani,Momd. Barkat Namani,house # 382 St. no.98  Jamurd  town peshawar,22-8-74,FSc,11-8-94,A,C
